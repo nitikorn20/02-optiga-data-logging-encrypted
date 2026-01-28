@@ -3,8 +3,8 @@ This tutorial shows how to **encrypt log data before writing it to storage** usi
 AES-CBC performed inside OPTIGA Trust M. The AES key never leaves OPTIGA.
 
 > Part 2 of 3 | [Back to Tutorial Hub](https://github.com/nitikorn20/optiga-secure-data-logging-tutorials)
->
-> Platform: `ESP32`
+
+[![Platform](https://img.shields.io/badge/Platform-ESP32-blue)]()
 
 ---
 
